@@ -1,0 +1,7 @@
+{
+  "name": "TEKNOFEST Report Master",
+  "description": "A high-end engineering document editor designed exclusively for TEKNOFEST competition reports, featuring real-time compliance checking, technical tone refinement, and automated template enforcement.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
